@@ -213,20 +213,6 @@ String with only alphabets: takeuforward
 
 
 
-/*
-   Sameer Devgan
-   22151532
-   BCA 'E'
-*/
-
-Problem Statement 6: Reverse a String. Write a program that reverses a given string.
-Problem: Given a string, calculate the sum of numbers in a string (multiple consecutive digits 
-are considered one number
-
-//INPUT
-
-
-
 /* 
    Sameer Devgan
    22151532
