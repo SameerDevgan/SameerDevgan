@@ -211,6 +211,37 @@ public class RemoveNonAlphabets
 Enter a string: take12% *&u ^$#forward
 String with only alphabets: takeuforward
 
+/*
+   Sameer Devgan
+   22151532
+   BCA 'E'
+*/
+
+Problem Statement 6: Reverse a String. Write a program that reverses a given string.
+Problem: Given a string, calculate the sum of numbers in a string (multiple consecutive digits 
+are considered one number
+
+//INPUT
+
+public class sumdigi
+public static void main(String[] args) 
+{
+   String str="4PREP2INSTAA6";
+   int sum=0;
+   for(int i=0;i<str.length();i++)
+   { 
+      if(str.charAt(i)>='0' && str.charAt(i)<='9')
+      {
+          sum+=(str.charAt(i)-'0');
+      }
+   }
+   System.out.println("Sum of all digits " +sum );
+}
+
+
+//OUTPUT
+Sum of all digits 12
+
 
 
 /* 
